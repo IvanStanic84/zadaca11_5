@@ -61,11 +61,11 @@ values (2, 'Bogdanovci');
 insert into opcina (zupanija, naziv)
 values (2, 'Drenovci');
 
-insert into opcina (zupanija, naziv)
-values (3, 'Otok');
+# insert into opcina (zupanija, naziv)
+# values (3, 'Otok');
 
-insert into opcina (zupanija, naziv)
-values (3, 'Dugopolje');
+# insert into opcina (zupanija, naziv)
+# values (3, 'Dugopolje');
 
 insert into mjesto (opcina, naziv)
 values (1, 'Harkanovci');
@@ -83,7 +83,7 @@ insert into mjesto (opcina, naziv)
 values (3, 'Svinjarevci');
 
 insert into mjesto (opcina, naziv)
-values (3, 'Košinci');
+values (3, 'Kešinci');
 
 insert into mjesto (opcina, naziv)
 values (4, 'Đurići');
@@ -91,16 +91,16 @@ values (4, 'Đurići');
 insert into mjesto (opcina, naziv)
 values (4, 'Račinovci');
 
-insert into mjesto (opcina, naziv)
-values (5, 'Gala');
+# insert into mjesto (opcina, naziv)
+# values (5, 'Gala');
 
-insert into mjesto (opcina, naziv)
-values (5, 'Korita');
+# insert into mjesto (opcina, naziv)
+# values (5, 'Korita');
 
-insert into mjesto (opcina, naziv)
-values (6, 'Koprivno');
+# insert into mjesto (opcina, naziv)
+# values (6, 'Koprivno');
 
-insert into mjesto (opcina, naziv)
-values (6, 'Liska');
+# insert into mjesto (opcina, naziv)
+# values (6, 'Liska');
 
 
