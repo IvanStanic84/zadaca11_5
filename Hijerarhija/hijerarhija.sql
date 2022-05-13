@@ -1,4 +1,4 @@
-# C:\xampp\mysql\bin\mysql -uroot --default_character_set=utf8 < C:\Users\Korisnik\Documents\GitHub\zadaca11_5\hijerarhija.sql
+# C:\xampp\mysql\bin\mysql -uroot --default_character_set=utf8 < C:\Users\Korisnik\Documents\GitHub\zadaca11_5\Hijerarhija\hijerarhija.sql
 
 drop database if exists hijerarhija;
 create database hijerarhija;
