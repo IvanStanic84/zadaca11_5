@@ -1,4 +1,4 @@
-# C:\xampp\mysql\bin\mysql -uroot --default_character_set=utf8 < C:\Users\Korisnik\Documents\GitHub\zadaca11_5\zadatak1.sql
+# C:\xampp\mysql\bin\mysql -uroot --default_character_set=utf8 < C:\Users\Korisnik\Documents\GitHub\zadaca11_5\Zadatak1\zadatak1.sql
 
 drop database if exists zadatak1;
 create database zadatak1;
@@ -18,7 +18,7 @@ create table zupanija(
 
 create table opcina(
     sifra int not null primary key auto_increment,
-    zupanija int not null,8
+    zupanija int not null,
     naziv varchar(50)
 );
 
