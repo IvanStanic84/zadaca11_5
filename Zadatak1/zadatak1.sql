@@ -68,22 +68,22 @@ insert into opcina (zupanija, naziv)
 values (3, 'Dugopolje');
 
 insert into mjesto (opcina, naziv)
-values (1, 'Ivanovci');
+values (1, 'Harkanovci');
 
 insert into mjesto (opcina, naziv)
-values (1, 'Šag');
+values (1, 'Ladimirevci');
 
 insert into mjesto (opcina, naziv)
-values (2, 'Cret');
+values (2, 'Habjanovci');
 
 insert into mjesto (opcina, naziv)
-values (2, 'Brođanci');
+values (2, 'Novaki');
 
 insert into mjesto (opcina, naziv)
 values (3, 'Svinjarevci');
 
 insert into mjesto (opcina, naziv)
-values (3, 'Petrovci');
+values (3, 'Košinci');
 
 insert into mjesto (opcina, naziv)
 values (4, 'Đurići');
